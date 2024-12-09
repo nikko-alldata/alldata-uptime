@@ -13,7 +13,7 @@ sites:
     url: https://matomo.alldataint.com/
     port: 80
     check: "tcp-ping"
-    ipv6: true
+    ipv6: false
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
