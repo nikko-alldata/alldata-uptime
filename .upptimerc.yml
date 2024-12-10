@@ -8,7 +8,9 @@ sites:
   - name: Showcase - All Data International
     url: https://showcase.alldataint.com
   - name: GIT - All Data International
-    url: https://git.alldataint.com/
+    url: https://git.alldataint.com
+  - name: Matomo - All Data International
+    url: https://matomo.alldataint.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
