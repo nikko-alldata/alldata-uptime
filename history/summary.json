@@ -42,19 +42,19 @@
     "url": "https://git.alldataint.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.alldataint.com.ico",
     "slug": "git-all-data-international",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1738,
-    "timeDay": 2036,
-    "timeWeek": 1661,
-    "timeMonth": 1738,
-    "timeYear": 1738,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1740,
+    "timeDay": 1904,
+    "timeWeek": 1672,
+    "timeMonth": 1740,
+    "timeYear": 1740,
     "dailyMinutesDown": {
-      "2024-12-20": 0
+      "2024-12-20": 7
     }
   },
   {
