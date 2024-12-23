@@ -22,9 +22,9 @@
     "url": "https://showcase.alldataint.com",
     "icon": "https://icons.duckduckgo.com/ip3/showcase.alldataint.com.ico",
     "slug": "showcase-all-data-international",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
@@ -34,6 +34,7 @@
     "timeMonth": 1531,
     "timeYear": 1531,
     "dailyMinutesDown": {
+      "2024-12-23": 0,
       "2024-12-20": 19
     }
   },
@@ -43,19 +44,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.alldataint.com.ico",
     "slug": "git-all-data-international",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1725,
     "timeDay": 1669,
     "timeWeek": 1669,
     "timeMonth": 1725,
     "timeYear": 1725,
-    "dailyMinutesDown": {
-      "2024-12-23": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Matomo - All Data International",
@@ -63,11 +62,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/matomo.alldataint.com.ico",
     "slug": "matomo-all-data-international",
     "status": "up",
-    "uptime": "94.80%",
+    "uptime": "94.81%",
     "uptimeDay": "98.79%",
     "uptimeWeek": "98.29%",
-    "uptimeMonth": "94.80%",
-    "uptimeYear": "94.80%",
+    "uptimeMonth": "94.81%",
+    "uptimeYear": "94.81%",
     "time": 2144,
     "timeDay": 2084,
     "timeWeek": 2172,
