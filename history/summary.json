@@ -42,9 +42,9 @@
     "url": "https://git.alldataint.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.alldataint.com.ico",
     "slug": "git-all-data-international",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 1668,
     "timeMonth": 1728,
     "timeYear": 1728,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-23": 0
+    }
   },
   {
     "name": "Matomo - All Data International",
@@ -61,13 +63,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/matomo.alldataint.com.ico",
     "slug": "matomo-all-data-international",
     "status": "up",
-    "uptime": "94.68%",
+    "uptime": "94.79%",
     "uptimeDay": "98.79%",
     "uptimeWeek": "98.29%",
-    "uptimeMonth": "94.68%",
-    "uptimeYear": "94.68%",
+    "uptimeMonth": "94.79%",
+    "uptimeYear": "94.79%",
     "time": 2144,
-    "timeDay": 2078,
+    "timeDay": 2084,
     "timeWeek": 2172,
     "timeMonth": 2144,
     "timeYear": 2144,
