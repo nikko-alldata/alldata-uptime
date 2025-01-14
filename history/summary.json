@@ -4,9 +4,9 @@
     "url": "https://alldataint.com",
     "icon": "https://icons.duckduckgo.com/ip3/alldataint.com.ico",
     "slug": "all-data-international",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2033,
     "timeMonth": 2021,
     "timeYear": 2026,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-14": 0
+    }
   },
   {
     "name": "Showcase - All Data International",
@@ -52,7 +54,7 @@
     "time": 1782,
     "timeDay": 1591,
     "timeWeek": 2219,
-    "timeMonth": 1776,
+    "timeMonth": 1785,
     "timeYear": 1782,
     "dailyMinutesDown": {
       "2025-01-11": 15,
@@ -67,18 +69,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/matomo.alldataint.com.ico",
     "slug": "matomo-all-data-international",
     "status": "up",
-    "uptime": "94.61%",
-    "uptimeDay": "96.34%",
-    "uptimeWeek": "85.53%",
-    "uptimeMonth": "95.61%",
-    "uptimeYear": "94.61%",
+    "uptime": "94.67%",
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "85.66%",
+    "uptimeMonth": "95.64%",
+    "uptimeYear": "94.67%",
     "time": 2631,
     "timeDay": 2015,
     "timeWeek": 3515,
     "timeMonth": 2681,
     "timeYear": 2631,
     "dailyMinutesDown": {
-      "2025-01-14": 52,
+      "2025-01-14": 40,
       "2025-01-12": 16,
       "2025-01-11": 18,
       "2025-01-10": 49,
