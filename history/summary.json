@@ -57,7 +57,7 @@
     "time": 1788,
     "timeDay": 1811,
     "timeWeek": 1895,
-    "timeMonth": 1810,
+    "timeMonth": 1812,
     "timeYear": 1788,
     "dailyMinutesDown": {
       "2025-02-05": 21,
@@ -81,7 +81,7 @@
     "url": "https://matomo.alldataint.com",
     "icon": "https://icons.duckduckgo.com/ip3/matomo.alldataint.com.ico",
     "slug": "matomo-all-data-international",
-    "status": "up",
+    "status": "down",
     "uptime": "96.37%",
     "uptimeDay": "94.97%",
     "uptimeWeek": "98.35%",
