@@ -82,7 +82,7 @@
     "url": "https://matomo.alldataint.com",
     "icon": "https://icons.duckduckgo.com/ip3/matomo.alldataint.com.ico",
     "slug": "matomo-all-data-international",
-    "status": "up",
+    "status": "down",
     "uptime": "96.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.65%",
@@ -94,6 +94,7 @@
     "timeMonth": 2123,
     "timeYear": 2342,
     "dailyMinutesDown": {
+      "2025-02-21": 0,
       "2025-02-19": 16,
       "2025-02-18": 43,
       "2025-02-17": 57,
