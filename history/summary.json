@@ -4,9 +4,9 @@
     "url": "https://alldataint.com",
     "icon": "https://icons.duckduckgo.com/ip3/alldataint.com.ico",
     "slug": "all-data-international",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "95.16%",
+    "uptimeDay": "95.14%",
     "uptimeWeek": "94.26%",
     "uptimeMonth": "95.70%",
     "uptimeYear": "98.94%",
@@ -76,8 +76,7 @@
       "2025-05-02": 458,
       "2025-05-01": 1440,
       "2025-04-30": 755,
-      "2025-04-18": 21,
-      "2025-04-10": 20
+      "2025-04-18": 21
     }
   },
   {
@@ -97,7 +96,7 @@
     "timeMonth": 0,
     "timeYear": 1505,
     "dailyMinutesDown": {
-      "2025-12-31": 916,
+      "2025-12-31": 935,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
@@ -429,7 +428,7 @@
     "timeMonth": 0,
     "timeYear": 2789,
     "dailyMinutesDown": {
-      "2025-12-31": 916,
+      "2025-12-31": 935,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
