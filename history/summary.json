@@ -6,15 +6,15 @@
     "slug": "all-data-international",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "62.24%",
+    "uptimeDay": "71.47%",
     "uptimeWeek": "86.79%",
     "uptimeMonth": "88.18%",
     "uptimeYear": "98.40%",
-    "time": 2209,
-    "timeDay": 1757,
-    "timeWeek": 2471,
-    "timeMonth": 2129,
-    "timeYear": 2189,
+    "time": 2210,
+    "timeDay": 1950,
+    "timeWeek": 2484,
+    "timeMonth": 2138,
+    "timeYear": 2190,
     "dailyMinutesDown": {
       "2026-04-04": 67,
       "2026-04-05": 325,
@@ -65,7 +65,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/showcase.alldataint.com.ico",
     "slug": "showcase-all-data-international",
     "status": "down",
-    "uptime": "28.34%",
+    "uptime": "28.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -76,7 +76,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-24": 1241,
+      "2026-05-25": 148,
+      "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -439,8 +440,7 @@
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
-      "2025-05-26": 1440,
-      "2025-05-25": 1440
+      "2025-05-26": 1440
     }
   },
   {
@@ -449,16 +449,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.alldataint.com.ico",
     "slug": "git-all-data-international",
     "status": "up",
-    "uptime": "98.59%",
+    "uptime": "98.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.22%",
-    "time": 1759,
-    "timeDay": 2574,
-    "timeWeek": 2977,
-    "timeMonth": 2498,
-    "timeYear": 1778,
+    "time": 1762,
+    "timeDay": 3087,
+    "timeWeek": 2962,
+    "timeMonth": 2556,
+    "timeYear": 1782,
     "dailyMinutesDown": {
       "2025-05-28": 19,
       "2025-05-30": 15,
@@ -481,7 +481,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/matomo.alldataint.com.ico",
     "slug": "matomo-all-data-international",
     "status": "down",
-    "uptime": "14.06%",
+    "uptime": "14.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -492,7 +492,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-24": 1241,
+      "2026-05-25": 148,
+      "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -855,8 +856,7 @@
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
-      "2025-05-26": 1440,
-      "2025-05-25": 1440
+      "2025-05-26": 1440
     }
   }
 ]
