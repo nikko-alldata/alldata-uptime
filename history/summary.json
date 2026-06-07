@@ -6,7 +6,7 @@
     "slug": "all-data-international",
     "status": "up",
     "uptime": "98.46%",
-    "uptimeDay": "39.95%",
+    "uptimeDay": "43.68%",
     "uptimeWeek": "62.84%",
     "uptimeMonth": "81.19%",
     "uptimeYear": "97.70%",
@@ -81,7 +81,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-07": 98,
+      "2026-06-07": 152,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -495,7 +495,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-07": 99,
+      "2026-06-07": 152,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
