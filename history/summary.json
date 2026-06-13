@@ -4,16 +4,16 @@
     "url": "https://alldataint.com",
     "icon": "https://icons.duckduckgo.com/ip3/alldataint.com.ico",
     "slug": "all-data-international",
-    "status": "down",
-    "uptime": "98.31%",
-    "uptimeDay": "68.17%",
-    "uptimeWeek": "69.33%",
-    "uptimeMonth": "77.80%",
-    "uptimeYear": "97.45%",
-    "time": 2194,
-    "timeDay": 1865,
-    "timeWeek": 1900,
-    "timeMonth": 2029,
+    "status": "up",
+    "uptime": "98.30%",
+    "uptimeDay": "64.50%",
+    "uptimeWeek": "69.06%",
+    "uptimeMonth": "77.68%",
+    "uptimeYear": "97.44%",
+    "time": 2193,
+    "timeDay": 1813,
+    "timeWeek": 1890,
+    "timeMonth": 2024,
     "timeYear": 2175,
     "dailyMinutesDown": {
       "2026-04-21": 39,
@@ -59,7 +59,7 @@
       "2026-06-10": 359,
       "2026-06-11": 218,
       "2026-06-12": 518,
-      "2026-06-13": 458
+      "2026-06-13": 511
     }
   },
   {
@@ -79,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 1315,
+      "2026-06-13": 1369,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -490,7 +490,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 1315,
+      "2026-06-13": 1369,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
