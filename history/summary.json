@@ -6,10 +6,10 @@
     "slug": "all-data-international",
     "status": "down",
     "uptime": "98.15%",
-    "uptimeDay": "90.90%",
-    "uptimeWeek": "70.37%",
-    "uptimeMonth": "74.80%",
-    "uptimeYear": "97.18%",
+    "uptimeDay": "88.39%",
+    "uptimeWeek": "70.02%",
+    "uptimeMonth": "74.72%",
+    "uptimeYear": "97.17%",
     "time": 2191,
     "timeDay": 1946,
     "timeWeek": 2061,
@@ -61,7 +61,7 @@
       "2026-06-16": 472,
       "2026-06-17": 419,
       "2026-06-18": 245,
-      "2026-06-19": 1
+      "2026-06-19": 37
     }
   },
   {
@@ -70,7 +70,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/showcase.alldataint.com.ico",
     "slug": "showcase-all-data-international",
     "status": "down",
-    "uptime": "27.06%",
+    "uptime": "27.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -81,7 +81,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-19": 137,
+      "2026-06-19": 173,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
@@ -492,7 +492,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-19": 137,
+      "2026-06-19": 173,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
