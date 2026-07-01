@@ -6,14 +6,14 @@
     "slug": "all-data-international",
     "status": "up",
     "uptime": "98.04%",
-    "uptimeDay": "76.66%",
-    "uptimeWeek": "85.90%",
+    "uptimeDay": "85.39%",
+    "uptimeWeek": "86.37%",
     "uptimeMonth": "74.01%",
     "uptimeYear": "96.95%",
     "time": 2188,
-    "timeDay": 1696,
-    "timeWeek": 2055,
-    "timeMonth": 1972,
+    "timeDay": 1578,
+    "timeWeek": 1774,
+    "timeMonth": 1973,
     "timeYear": 2169,
     "dailyMinutesDown": {
       "2026-05-06": 134,
@@ -71,10 +71,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/showcase.alldataint.com.ico",
     "slug": "showcase-all-data-international",
     "status": "down",
-    "uptime": "26.49%",
+    "uptime": "26.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 1469,
     "timeDay": 0,
@@ -82,7 +82,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 1356,
+      "2026-07-01": 150,
+      "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -445,8 +446,7 @@
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
-      "2025-07-02": 1440,
-      "2025-07-01": 1440
+      "2025-07-02": 1440
     }
   },
   {
@@ -460,11 +460,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.26%",
-    "time": 1826,
-    "timeDay": 2321,
-    "timeWeek": 2297,
-    "timeMonth": 2510,
-    "timeYear": 1865,
+    "time": 1827,
+    "timeDay": 2187,
+    "timeWeek": 2210,
+    "timeMonth": 2505,
+    "timeYear": 1868,
     "dailyMinutesDown": {
       "2025-08-07": 153,
       "2025-08-20": 130,
@@ -481,18 +481,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/matomo.alldataint.com.ico",
     "slug": "matomo-all-data-international",
     "status": "down",
-    "uptime": "13.14%",
+    "uptime": "13.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 4025,
+    "time": 4060,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 1356,
+      "2026-07-01": 150,
+      "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -855,8 +856,7 @@
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
-      "2025-07-02": 1440,
-      "2025-07-01": 1440
+      "2025-07-02": 1440
     }
   }
 ]
