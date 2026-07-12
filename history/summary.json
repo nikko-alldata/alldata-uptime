@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "98.05%",
     "uptimeDay": "95.88%",
-    "uptimeWeek": "89.04%",
-    "uptimeMonth": "82.57%",
+    "uptimeWeek": "89.23%",
+    "uptimeMonth": "83.07%",
     "uptimeYear": "96.91%",
-    "time": 2177,
-    "timeDay": 1686,
-    "timeWeek": 1808,
-    "timeMonth": 1955,
+    "time": 2176,
+    "timeDay": 1702,
+    "timeWeek": 1780,
+    "timeMonth": 1947,
     "timeYear": 2162,
     "dailyMinutesDown": {
       "2026-05-12": 78,
@@ -73,18 +73,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/showcase.alldataint.com.ico",
     "slug": "showcase-all-data-international",
     "status": "down",
-    "uptime": "26.00%",
+    "uptime": "25.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1459,
+    "time": 1458,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-11": 1031,
+      "2026-07-12": 103,
+      "2026-07-11": 1440,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
@@ -447,8 +448,7 @@
       "2025-07-16": 1440,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
-      "2025-07-13": 1440,
-      "2025-07-12": 1440
+      "2025-07-13": 1440
     }
   },
   {
@@ -462,11 +462,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.26%",
-    "time": 1843,
-    "timeDay": 1829,
-    "timeWeek": 2363,
-    "timeMonth": 2460,
-    "timeYear": 1883,
+    "time": 1844,
+    "timeDay": 2228,
+    "timeWeek": 2260,
+    "timeMonth": 2439,
+    "timeYear": 1884,
     "dailyMinutesDown": {
       "2025-08-07": 153,
       "2025-08-20": 130,
@@ -494,7 +494,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-11": 1031,
+      "2026-07-12": 103,
+      "2026-07-11": 1440,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
@@ -857,8 +858,7 @@
       "2025-07-16": 1440,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
-      "2025-07-13": 1440,
-      "2025-07-12": 1440
+      "2025-07-13": 1440
     }
   }
 ]
