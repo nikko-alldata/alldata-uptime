@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/alldataint.com.ico",
     "slug": "all-data-international",
     "status": "up",
-    "uptime": "98.05%",
-    "uptimeDay": "95.88%",
-    "uptimeWeek": "89.23%",
-    "uptimeMonth": "83.07%",
+    "uptime": "98.06%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "93.68%",
+    "uptimeMonth": "84.25%",
     "uptimeYear": "96.91%",
     "time": 2176,
-    "timeDay": 1702,
-    "timeWeek": 1780,
-    "timeMonth": 1947,
-    "timeYear": 2162,
+    "timeDay": 1697,
+    "timeWeek": 1740,
+    "timeMonth": 1942,
+    "timeYear": 2161,
     "dailyMinutesDown": {
       "2026-05-12": 78,
       "2026-05-14": 218,
@@ -73,18 +73,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/showcase.alldataint.com.ico",
     "slug": "showcase-all-data-international",
     "status": "down",
-    "uptime": "25.98%",
+    "uptime": "25.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1458,
+    "time": 1457,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-12": 103,
+      "2026-07-13": 106,
+      "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
@@ -447,8 +448,7 @@
       "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
-      "2025-07-14": 1440,
-      "2025-07-13": 1440
+      "2025-07-14": 1440
     }
   },
   {
@@ -462,11 +462,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.26%",
-    "time": 1844,
-    "timeDay": 2228,
-    "timeWeek": 2260,
-    "timeMonth": 2439,
-    "timeYear": 1884,
+    "time": 1847,
+    "timeDay": 3015,
+    "timeWeek": 2311,
+    "timeMonth": 2437,
+    "timeYear": 1889,
     "dailyMinutesDown": {
       "2025-08-07": 153,
       "2025-08-20": 130,
@@ -483,7 +483,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/matomo.alldataint.com.ico",
     "slug": "matomo-all-data-international",
     "status": "down",
-    "uptime": "12.89%",
+    "uptime": "12.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -494,7 +494,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-12": 103,
+      "2026-07-13": 106,
+      "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
@@ -857,8 +858,7 @@
       "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
-      "2025-07-14": 1440,
-      "2025-07-13": 1440
+      "2025-07-14": 1440
     }
   }
 ]
