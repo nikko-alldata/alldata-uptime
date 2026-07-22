@@ -4,15 +4,15 @@
     "url": "https://alldataint.com",
     "icon": "https://icons.duckduckgo.com/ip3/alldataint.com.ico",
     "slug": "all-data-international",
-    "status": "down",
-    "uptime": "98.15%",
-    "uptimeDay": "83.84%",
-    "uptimeWeek": "89.21%",
-    "uptimeMonth": "89.37%",
-    "uptimeYear": "97.00%",
+    "status": "up",
+    "uptime": "98.14%",
+    "uptimeDay": "83.88%",
+    "uptimeWeek": "88.36%",
+    "uptimeMonth": "89.17%",
+    "uptimeYear": "96.99%",
     "time": 2165,
-    "timeDay": 1553,
-    "timeWeek": 1731,
+    "timeDay": 1620,
+    "timeWeek": 1737,
     "timeMonth": 1853,
     "timeYear": 2153,
     "dailyMinutesDown": {
@@ -64,7 +64,7 @@
       "2026-07-20": 135,
       "2026-07-19": 45,
       "2026-07-21": 237,
-      "2026-07-22": 147
+      "2026-07-22": 232
     }
   },
   {
@@ -84,7 +84,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-22": 870,
+      "2026-07-22": 956,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -483,7 +483,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/matomo.alldataint.com.ico",
     "slug": "matomo-all-data-international",
     "status": "down",
-    "uptime": "12.66%",
+    "uptime": "12.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -494,7 +494,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-22": 870,
+      "2026-07-22": 956,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
