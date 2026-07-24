@@ -4,17 +4,17 @@
     "url": "https://alldataint.com",
     "icon": "https://icons.duckduckgo.com/ip3/alldataint.com.ico",
     "slug": "all-data-international",
-    "status": "down",
+    "status": "up",
     "uptime": "98.21%",
-    "uptimeDay": "91.19%",
-    "uptimeWeek": "89.55%",
-    "uptimeMonth": "89.27%",
-    "uptimeYear": "97.11%",
-    "time": 2164,
-    "timeDay": 1766,
-    "timeWeek": 1726,
-    "timeMonth": 1788,
-    "timeYear": 2152,
+    "uptimeDay": "87.13%",
+    "uptimeWeek": "88.97%",
+    "uptimeMonth": "89.14%",
+    "uptimeYear": "97.10%",
+    "time": 2159,
+    "timeDay": 1729,
+    "timeWeek": 1722,
+    "timeMonth": 1786,
+    "timeYear": 2151,
     "dailyMinutesDown": {
       "2026-05-29": 187,
       "2026-05-30": 315,
@@ -63,7 +63,8 @@
       "2026-07-19": 45,
       "2026-07-21": 237,
       "2026-07-22": 232,
-      "2026-07-23": 127
+      "2026-07-23": 129,
+      "2026-07-24": 57
     }
   },
   {
@@ -83,7 +84,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-23": 1438,
+      "2026-07-24": 57,
+      "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
@@ -446,8 +448,7 @@
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
-      "2025-07-25": 1440,
-      "2025-07-24": 1440
+      "2025-07-25": 1440
     }
   },
   {
@@ -482,7 +483,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/matomo.alldataint.com.ico",
     "slug": "matomo-all-data-international",
     "status": "down",
-    "uptime": "12.63%",
+    "uptime": "12.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -493,7 +494,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-23": 1438,
+      "2026-07-24": 57,
+      "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
@@ -856,8 +858,7 @@
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
-      "2025-07-25": 1440,
-      "2025-07-24": 1440
+      "2025-07-25": 1440
     }
   }
 ]
