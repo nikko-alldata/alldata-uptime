@@ -6,15 +6,15 @@
     "slug": "all-data-international",
     "status": "up",
     "uptime": "98.47%",
-    "uptimeDay": "44.80%",
-    "uptimeWeek": "79.48%",
-    "uptimeMonth": "86.78%",
+    "uptimeDay": "62.19%",
+    "uptimeWeek": "80.02%",
+    "uptimeMonth": "86.92%",
     "uptimeYear": "97.48%",
     "time": 2155,
-    "timeDay": 1957,
-    "timeWeek": 1771,
-    "timeMonth": 1783,
-    "timeYear": 2139,
+    "timeDay": 1984,
+    "timeWeek": 1787,
+    "timeMonth": 1780,
+    "timeYear": 2138,
     "dailyMinutesDown": {
       "2026-06-07": 58,
       "2026-06-08": 529,
@@ -74,7 +74,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/showcase.alldataint.com.ico",
     "slug": "showcase-all-data-international",
     "status": "down",
-    "uptime": "25.04%",
+    "uptime": "25.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -85,7 +85,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-02": 1175,
+      "2026-08-03": 108,
+      "2026-08-02": 1440,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -448,8 +449,7 @@
       "2025-08-07": 1440,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
-      "2025-08-04": 1440,
-      "2025-08-03": 1440
+      "2025-08-04": 1440
     }
   },
   {
@@ -463,11 +463,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.26%",
-    "time": 1881,
-    "timeDay": 3247,
-    "timeWeek": 2563,
-    "timeMonth": 2492,
-    "timeYear": 1936,
+    "time": 1883,
+    "timeDay": 2730,
+    "timeWeek": 2612,
+    "timeMonth": 2497,
+    "timeYear": 1939,
     "dailyMinutesDown": {
       "2025-08-07": 153,
       "2025-08-20": 130,
@@ -484,18 +484,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/matomo.alldataint.com.ico",
     "slug": "matomo-all-data-international",
     "status": "down",
-    "uptime": "12.42%",
+    "uptime": "12.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 4349,
+    "time": 4350,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-02": 1175,
+      "2026-08-03": 108,
+      "2026-08-02": 1440,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -858,8 +859,7 @@
       "2025-08-07": 1440,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
-      "2025-08-04": 1440,
-      "2025-08-03": 1440
+      "2025-08-04": 1440
     }
   }
 ]
