@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/alldataint.com.ico",
     "slug": "all-data-international",
     "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "87.62%",
-    "uptimeWeek": "84.95%",
+    "uptime": "98.88%",
+    "uptimeDay": "89.27%",
+    "uptimeWeek": "86.11%",
     "uptimeMonth": "86.01%",
     "uptimeYear": "98.12%",
     "time": 2135,
-    "timeDay": 1977,
-    "timeWeek": 1694,
-    "timeMonth": 1737,
+    "timeDay": 2016,
+    "timeWeek": 1699,
+    "timeMonth": 1742,
     "timeYear": 2123,
     "dailyMinutesDown": {
       "2026-06-21": 483,
@@ -68,18 +68,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/showcase.alldataint.com.ico",
     "slug": "showcase-all-data-international",
     "status": "down",
-    "uptime": "24.67%",
+    "uptime": "24.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1434,
+    "time": 1439,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-11": 1345,
+      "2026-08-12": 60,
+      "2026-08-11": 1440,
       "2026-08-10": 1440,
       "2026-08-09": 1440,
       "2026-08-08": 1440,
@@ -442,8 +443,7 @@
       "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
-      "2025-08-13": 1440,
-      "2025-08-12": 1440
+      "2025-08-13": 1440
     }
   },
   {
@@ -457,11 +457,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.29%",
-    "time": 1895,
-    "timeDay": 2175,
-    "timeWeek": 2348,
-    "timeMonth": 2495,
-    "timeYear": 1953,
+    "time": 1896,
+    "timeDay": 1969,
+    "timeWeek": 2303,
+    "timeMonth": 2487,
+    "timeYear": 1955,
     "dailyMinutesDown": {
       "2025-08-20": 130,
       "2025-10-08": 88,
@@ -488,7 +488,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-11": 1345,
+      "2026-08-12": 60,
+      "2026-08-11": 1440,
       "2026-08-10": 1440,
       "2026-08-09": 1440,
       "2026-08-08": 1440,
@@ -851,8 +852,7 @@
       "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
-      "2025-08-13": 1440,
-      "2025-08-12": 1440
+      "2025-08-13": 1440
     }
   }
 ]
