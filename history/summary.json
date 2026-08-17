@@ -4,19 +4,18 @@
     "url": "https://alldataint.com",
     "icon": "https://icons.duckduckgo.com/ip3/alldataint.com.ico",
     "slug": "all-data-international",
-    "status": "up",
-    "uptime": "99.05%",
-    "uptimeDay": "90.45%",
-    "uptimeWeek": "90.83%",
+    "status": "down",
+    "uptime": "99.07%",
+    "uptimeDay": "96.27%",
+    "uptimeWeek": "91.64%",
     "uptimeMonth": "85.95%",
-    "uptimeYear": "98.40%",
+    "uptimeYear": "98.43%",
     "time": 2134,
-    "timeDay": 1706,
-    "timeWeek": 1697,
+    "timeDay": 1720,
+    "timeWeek": 1713,
     "timeMonth": 1725,
     "timeYear": 2106,
     "dailyMinutesDown": {
-      "2026-07-01": 164,
       "2026-07-02": 170,
       "2026-07-03": 159,
       "2026-07-04": 132,
@@ -56,7 +55,8 @@
       "2026-08-13": 157,
       "2026-08-14": 49,
       "2026-08-15": 40,
-      "2026-08-16": 169
+      "2026-08-16": 169,
+      "2026-08-17": 1
     }
   },
   {
@@ -65,7 +65,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/showcase.alldataint.com.ico",
     "slug": "showcase-all-data-international",
     "status": "down",
-    "uptime": "24.47%",
+    "uptime": "24.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -76,7 +76,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-17": 36,
+      "2026-08-17": 334,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -485,7 +485,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-17": 36,
+      "2026-08-17": 334,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
