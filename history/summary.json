@@ -6,16 +6,17 @@
     "slug": "all-data-international",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "94.90%",
-    "uptimeWeek": "92.97%",
-    "uptimeMonth": "86.67%",
-    "uptimeYear": "98.63%",
+    "uptimeDay": "96.85%",
+    "uptimeWeek": "93.59%",
+    "uptimeMonth": "86.90%",
+    "uptimeYear": "98.62%",
     "time": 2118,
-    "timeDay": 2108,
-    "timeWeek": 1691,
-    "timeMonth": 1722,
-    "timeYear": 2097,
+    "timeDay": 2406,
+    "timeWeek": 1712,
+    "timeMonth": 1723,
+    "timeYear": 2094,
     "dailyMinutesDown": {
+      "2026-07-11": 59,
       "2026-07-14": 195,
       "2026-07-15": 346,
       "2026-07-17": 56,
@@ -53,7 +54,7 @@
       "2026-08-19": 98,
       "2026-08-20": 45,
       "2026-08-21": 54,
-      "2026-08-22": 57
+      "2026-08-22": 45
     }
   },
   {
@@ -62,7 +63,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/showcase.alldataint.com.ico",
     "slug": "showcase-all-data-international",
     "status": "down",
-    "uptime": "24.25%",
+    "uptime": "24.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -73,7 +74,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-22": 608,
+      "2026-08-23": 39,
+      "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -436,8 +438,7 @@
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
-      "2025-08-24": 1440,
-      "2025-08-23": 1440
+      "2025-08-24": 1440
     }
   },
   {
@@ -451,11 +452,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.32%",
-    "time": 1910,
-    "timeDay": 2022,
-    "timeWeek": 2367,
-    "timeMonth": 2459,
-    "timeYear": 1972,
+    "time": 1914,
+    "timeDay": 3342,
+    "timeWeek": 2517,
+    "timeMonth": 2497,
+    "timeYear": 1977,
     "dailyMinutesDown": {
       "2025-10-08": 88,
       "2025-12-27": 36,
@@ -470,18 +471,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/matomo.alldataint.com.ico",
     "slug": "matomo-all-data-international",
     "status": "down",
-    "uptime": "12.03%",
+    "uptime": "12.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 4211,
+    "time": 4207,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-22": 608,
+      "2026-08-23": 39,
+      "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -844,8 +846,7 @@
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
-      "2025-08-24": 1440,
-      "2025-08-23": 1440
+      "2025-08-24": 1440
     }
   }
 ]
