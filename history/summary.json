@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.73%",
-    "uptimeMonth": "88.54%",
+    "uptimeWeek": "96.34%",
+    "uptimeMonth": "89.35%",
     "uptimeYear": "98.71%",
     "time": 2108,
-    "timeDay": 1967,
-    "timeWeek": 1890,
-    "timeMonth": 1737,
-    "timeYear": 2089,
+    "timeDay": 1774,
+    "timeWeek": 1816,
+    "timeMonth": 1739,
+    "timeYear": 2088,
     "dailyMinutesDown": {
       "2026-07-20": 135,
       "2026-07-19": 45,
@@ -62,18 +62,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/showcase.alldataint.com.ico",
     "slug": "showcase-all-data-international",
     "status": "down",
-    "uptime": "24.02%",
+    "uptime": "23.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1394,
+    "time": 1379,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-28": 468,
+      "2026-08-29": 283,
+      "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
@@ -436,8 +437,7 @@
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
-      "2025-08-30": 1440,
-      "2025-08-29": 1440
+      "2025-08-30": 1440
     }
   },
   {
@@ -451,11 +451,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.32%",
-    "time": 1919,
-    "timeDay": 2735,
-    "timeWeek": 2365,
-    "timeMonth": 2428,
-    "timeYear": 1982,
+    "time": 1920,
+    "timeDay": 2546,
+    "timeWeek": 2413,
+    "timeMonth": 2436,
+    "timeYear": 1985,
     "dailyMinutesDown": {
       "2025-10-08": 88,
       "2025-12-27": 36,
@@ -470,7 +470,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/matomo.alldataint.com.ico",
     "slug": "matomo-all-data-international",
     "status": "down",
-    "uptime": "11.91%",
+    "uptime": "11.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -481,7 +481,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-28": 468,
+      "2026-08-29": 283,
+      "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
@@ -844,8 +845,7 @@
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
-      "2025-08-30": 1440,
-      "2025-08-29": 1440
+      "2025-08-30": 1440
     }
   }
 ]
