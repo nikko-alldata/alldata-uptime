@@ -4,16 +4,16 @@
     "url": "https://alldataint.com",
     "icon": "https://icons.duckduckgo.com/ip3/alldataint.com.ico",
     "slug": "all-data-international",
-    "status": "down",
-    "uptime": "99.20%",
-    "uptimeDay": "92.75%",
-    "uptimeWeek": "85.57%",
-    "uptimeMonth": "90.49%",
-    "uptimeYear": "98.60%",
+    "status": "up",
+    "uptime": "99.19%",
+    "uptimeDay": "85.53%",
+    "uptimeWeek": "84.54%",
+    "uptimeMonth": "90.25%",
+    "uptimeYear": "98.58%",
     "time": 2101,
-    "timeDay": 1859,
-    "timeWeek": 1826,
-    "timeMonth": 1731,
+    "timeDay": 1856,
+    "timeWeek": 1845,
+    "timeMonth": 1734,
     "timeYear": 2082,
     "dailyMinutesDown": {
       "2026-07-24": 66,
@@ -54,7 +54,8 @@
       "2026-09-01": 324,
       "2026-09-02": 275,
       "2026-09-04": 453,
-      "2026-09-06": 105
+      "2026-09-06": 154,
+      "2026-09-07": 55
     }
   },
   {
@@ -74,7 +75,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-06": 1391,
+      "2026-09-07": 55,
+      "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
@@ -437,8 +439,7 @@
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
-      "2025-09-08": 1440,
-      "2025-09-07": 1440
+      "2025-09-08": 1440
     }
   },
   {
@@ -452,11 +453,11 @@
     "uptimeWeek": "96.91%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.26%",
-    "time": 1931,
-    "timeDay": 2550,
-    "timeWeek": 2210,
-    "timeMonth": 2302,
-    "timeYear": 1996,
+    "time": 1933,
+    "timeDay": 2839,
+    "timeWeek": 2273,
+    "timeMonth": 2318,
+    "timeYear": 1999,
     "dailyMinutesDown": {
       "2025-10-08": 88,
       "2025-12-27": 36,
@@ -477,13 +478,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 4143,
+    "time": 4152,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-06": 1391,
+      "2026-09-07": 56,
+      "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
@@ -846,8 +848,7 @@
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
-      "2025-09-08": 1440,
-      "2025-09-07": 1440
+      "2025-09-08": 1440
     }
   }
 ]
