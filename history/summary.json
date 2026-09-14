@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.16%",
     "uptimeDay": "86.25%",
-    "uptimeWeek": "92.53%",
-    "uptimeMonth": "92.31%",
+    "uptimeWeek": "94.60%",
+    "uptimeMonth": "92.35%",
     "uptimeYear": "98.53%",
     "time": 2100,
-    "timeDay": 1900,
-    "timeWeek": 2032,
-    "timeMonth": 1789,
+    "timeDay": 2089,
+    "timeWeek": 2066,
+    "timeMonth": 1796,
     "timeYear": 2080,
     "dailyMinutesDown": {
       "2026-07-26": 273,
@@ -66,18 +66,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/showcase.alldataint.com.ico",
     "slug": "showcase-all-data-international",
     "status": "down",
-    "uptime": "23.41%",
+    "uptime": "23.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1294,
+    "time": 1329,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-13": 902,
+      "2026-09-14": 135,
+      "2026-09-13": 1440,
       "2026-09-12": 1440,
       "2026-09-11": 1440,
       "2026-09-10": 1440,
@@ -440,8 +441,7 @@
       "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
-      "2025-09-15": 1440,
-      "2025-09-14": 1440
+      "2025-09-15": 1440
     }
   },
   {
@@ -455,11 +455,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.26%",
-    "time": 1942,
-    "timeDay": 2515,
-    "timeWeek": 2646,
-    "timeMonth": 2386,
-    "timeYear": 2015,
+    "time": 1944,
+    "timeDay": 2798,
+    "timeWeek": 2640,
+    "timeMonth": 2409,
+    "timeYear": 2017,
     "dailyMinutesDown": {
       "2025-10-08": 88,
       "2025-12-27": 36,
@@ -475,7 +475,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/matomo.alldataint.com.ico",
     "slug": "matomo-all-data-international",
     "status": "down",
-    "uptime": "11.61%",
+    "uptime": "11.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -486,7 +486,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-13": 902,
+      "2026-09-14": 135,
+      "2026-09-13": 1440,
       "2026-09-12": 1440,
       "2026-09-11": 1440,
       "2026-09-10": 1440,
@@ -849,8 +850,7 @@
       "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
-      "2025-09-15": 1440,
-      "2025-09-14": 1440
+      "2025-09-15": 1440
     }
   }
 ]
